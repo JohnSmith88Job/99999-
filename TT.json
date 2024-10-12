@@ -1,0 +1,12 @@
+{
+    "name": "99999%",
+    "symbol": "99999%",
+    "description": "Sigma male",
+    "image": "https://raw.githubusercontent.com/JohnSmith88Job/99999-/refs/heads/main/TT.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
